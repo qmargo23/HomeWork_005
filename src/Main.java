@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        task1();
-        task2();
-        task3();
-        task4();
-        task5();
+        task1();//Задача 1 (iOS или Android)
+        task2();//Задача 2 (iOS или Android с дополнением по году)
+        task3();//Задача 3 (високосный год)
+        task4();//Задача 4 (доставка карт на дом)
+        task5();//Задача 5 (месяц - сезон)
     }
 
     public static void task1 () {
@@ -36,7 +36,7 @@ public class Main {
 
 
     public static void task3 () {
-        System.out.println("Задача 2 (високосный год)");
+        System.out.println("Задача 3 (високосный год)");
         // year
         int year = 2021;
 
